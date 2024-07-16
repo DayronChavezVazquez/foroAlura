@@ -1,0 +1,1 @@
+INSERT INTO `foro_Alura`.`usuarios` (`id`, `login`, `clave`) values ('1', 'alura_User1', '$2a$10$QunKYSfCtl4fuI8lWyNUb.9/hvkqHIBiA5s6XtUbwz3OgKOP3c7Ru')
